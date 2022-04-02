@@ -1,6 +1,6 @@
 Name:           db
 Version:        5.3.28
-Release:        18
+Release:        19
 License:        Sleepycat
 Summary:        Berkeley Database v5
 Url:            http://www.oracle.com/technology/products/berkeley-db/db/index.html
